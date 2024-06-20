@@ -21,14 +21,14 @@ GET/cliente: localhost:8080/costumer/products
 
 ## Insomnia
 ### POST/login
-![Captura de Tela (17)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/eabb3b5f-e73a-42f4-b181-6bf8d77dd30f)
-### GET/UserName
-![Captura de Tela (16)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/11db0e91-cfd0-4626-9760-3bcd31372385)
-### GET/Admin
-![Captura de Tela (15)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/e0d66bf4-5eeb-44ad-82f4-c8a97aeb4e36)
-### GET/Gerente
-![Captura de Tela (14)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/b9a2cb43-a31c-405c-a283-15ba1c0431b6)
-### GET/Vendedor
-![Captura de Tela (13)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/2eeb1075-cda1-43eb-ae7e-18fe4b214ac7)
-### GET/Cliente
 ![Captura de Tela (12)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/0ba42aaa-4351-42a8-b038-a6a6e50e7e52)
+### GET/UserName
+![Captura de Tela (13)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/2eeb1075-cda1-43eb-ae7e-18fe4b214ac7)
+### GET/Admin
+![Captura de Tela (14)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/b9a2cb43-a31c-405c-a283-15ba1c0431b6)
+### GET/Gerente
+![Captura de Tela (15)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/e0d66bf4-5eeb-44ad-82f4-c8a97aeb4e36)
+### GET/Vendedor
+![Captura de Tela (16)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/11db0e91-cfd0-4626-9760-3bcd31372385)
+### GET/Cliente
+![Captura de Tela (17)](https://github.com/PauloHAJr/AV2-SistemaAutenticacaoAutorizacao/assets/102565635/eabb3b5f-e73a-42f4-b181-6bf8d77dd30f)
